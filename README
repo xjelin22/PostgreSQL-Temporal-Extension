@@ -1,0 +1,8 @@
+PostgreSQL Temporal Extension
+
+This script add temporal support to PostgreSQL.
+
+Before install make sure if PERIOD from <http://sourceforge.net/p/pgsql-temporal/code/ci/master/tree/> is installed.
+
+For install run script postgresql-temporal.sql.
+For uninstall run script uninstall-postgresql-temporal.sql
